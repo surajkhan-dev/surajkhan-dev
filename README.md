@@ -1,10 +1,10 @@
 # Hi, I'm Suraj Khan 👋
 
-### Frontend Developer | React.js | JavaScript
+### Software Developer | React.js | JavaScript | MERN Stack Development
 
 <p>
   <a href="mailto:surajkhanghatal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-surajkhanghatal%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Suraj Khan" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Suraj Khan" />
   </a>
   <a href="https://www.linkedin.com/in/suraj-khan22/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -14,25 +14,31 @@
   </a>
 </p>
 
-I'm a Computer Science and Engineering graduate focused on frontend development. I enjoy building responsive, user-friendly web applications and turning ideas into practical projects. I’m continuously improving my skills through hands-on development and problem-solving.
+I'm a Computer Science and Engineering graduate interested in building modern web applications. I work with JavaScript and React.js, and I'm expanding my skills across the MERN stack through hands-on project development.
 
 ## About Me
 
 - 🎓 B.Tech in Computer Science and Engineering (2024)
-- 💻 Focused on React.js, JavaScript, and modern frontend development
-- 🌱 Currently strengthening JavaScript fundamentals and React skills
-- 🚀 Working towards becoming a well-rounded full-stack developer
+- 💻 Building responsive web interfaces with React.js and JavaScript
+- 🚀 Developing **Shopora**, an e-commerce portfolio project
+- 🌱 Learning backend development with Node.js, Express.js and MongoDB
 - 📍 West Bengal, India
 
-## Tech Stack
+## Technical Skills
 
 **Frontend**
-
+  
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-2026-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend & Database — Currently Learning**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Tools**
 
@@ -50,28 +56,29 @@ I'm a Computer Science and Engineering graduate focused on frontend development.
 
 ### 🛍️ [Shopora — E-Commerce Web Application](https://shopora-ecommerce-nu.vercel.app/)
 
-A responsive e-commerce frontend built with React.js and JavaScript as a practical portfolio project.
+A responsive e-commerce frontend built with React.js, JavaScript and Tailwind CSS. Shopora is an ongoing portfolio project focused on practical application development.
 
-**Highlights**
+**Current Features**
 - Responsive product browsing interface
 - Product search and sorting by name and price
 - Add-to-cart functionality
 - Cart quantity updates and item removal
-- Automatically calculated cart totals
+- Automatic cart total calculation
 - Reusable React components and state management
 
 **[🌐 Live Demo](https://shopora-ecommerce-nu.vercel.app/)** · **[💻 Source Code](https://github.com/surajkhan-dev/shopora-ecommerce)**
 
-## Currently Learning
+## Current Learning Focus
 
-- Advanced JavaScript concepts
-- React.js and component-based development
-- Backend development with Node.js and Express.js
-- MongoDB and full-stack application development
+- Strengthening JavaScript fundamentals and advanced concepts
+- Improving React.js and frontend application architecture
+- Building REST APIs with Node.js and Express.js
+- Working with MongoDB and connecting frontend applications to a backend
+- Developing full-stack features through hands-on projects
 
 ## Let's Connect
 
-I'm open to opportunities for **Frontend Developer / React.js Developer** roles and opportunities to learn and grow as a software developer.
+I'm interested in **Junior Software Developer, React.js Developer and entry-level MERN Stack opportunities**.
 
 - **Email:** [surajkhanghatal@gmail.com](mailto:surajkhanghatal@gmail.com)
 - **LinkedIn:** [linkedin.com/in/suraj-khan22](https://www.linkedin.com/in/suraj-khan22/)

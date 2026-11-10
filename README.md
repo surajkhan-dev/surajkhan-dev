@@ -2,36 +2,43 @@
 
 ### Frontend Developer | React.js | JavaScript
 
-I build responsive web interfaces and enjoy turning ideas into practical projects. I focus on writing clear, maintainable code and strengthening my frontend development skills through hands-on work.
+I’m a Computer Science graduate focused on building responsive, user-friendly web applications. I enjoy turning ideas into working interfaces and improving my development skills through hands-on projects.
 
-## About Me
-
-- 🎓 B.Tech in Computer Science and Engineering
-- 💻 Focused on frontend development with React.js and JavaScript
-- 🌱 Currently strengthening JavaScript and React fundamentals
-- 🚀 Building practical projects and learning full-stack development step by step
+- 🎓 B.Tech in Computer Science & Engineering (2024)
+- 💻 Working with React.js, JavaScript, HTML, CSS, and Tailwind CSS
+- 🌱 Currently strengthening JavaScript fundamentals and React development
+- 🚀 Interested in frontend development and growing towards full-stack development
+- 📍 West Bengal, India
 
 ## Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS
-- **Tools:** Git, GitHub, VS Code, Vite
-- **Additional Knowledge:** Java, SQL
+**Frontend:**  
+JavaScript (ES6+), React.js, HTML5, CSS3, Tailwind CSS
+
+**Tools:**  
+Git, GitHub, VS Code, Vite
+
+**Additional Knowledge:**  
+Java, SQL, MySQL
 
 ## Featured Project
 
-### [Shopora – E-Commerce Frontend](https://shopora-ecommerce-nu.vercel.app/)
+### [Shopora — E-Commerce Frontend](https://shopora-ecommerce-nu.vercel.app/)
 
 A responsive e-commerce frontend built with React.js and JavaScript.
 
-- Browse products and categories
-- Search and sort products
-- Add products to the cart and update quantities
-- View automatically calculated cart totals
+**Key features**
+- Product listing and browsing
+- Product search and sorting
+- Add-to-cart functionality
+- Cart quantity controls and item removal
+- Automatic cart total calculation
+- Responsive layout
 
-**[Live Demo](https://shopora-ecommerce-nu.vercel.app/) · [Source Code](https://github.com/surajkhan-dev/shopora-ecommerce)**
+[Live Demo](https://shopora-ecommerce-nu.vercel.app/) · [Source Code](https://github.com/surajkhan-dev/shopora-ecommerce)
 
-## Connect
+## Connect With Me
 
-- **LinkedIn:** [Suraj Khan](https://www.linkedin.com/in/suraj-khan22/)
-- **GitHub:** [@surajkhan-dev](https://github.com/surajkhan-dev)
-- **Email:** [surajkhanghatal@gmail.com](mailto:surajkhanghatal@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/suraj-khan22/)
+- [GitHub](https://github.com/surajkhan-dev)
+- [Email](mailto:surajkhanghatal@gmail.com)
